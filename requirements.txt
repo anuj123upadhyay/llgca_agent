@@ -1,5 +1,4 @@
 
-
 # Python Version: >=3.11
 # Core Framework
 fastapi>=0.104.1
@@ -12,7 +11,7 @@ httpx>=0.25.2
 requests>=2.31.0
 aiofiles>=23.2.1
 
-# Portia AI Framework - Will install manually
+# Portia AI Framework 
 portia-sdk-python
 
 # Geolocation and Maps
