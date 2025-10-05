@@ -1,0 +1,6 @@
+.env
+.portia
+ambulance_venv/
+
+__pycache__/
+*.pyc

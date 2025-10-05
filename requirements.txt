@@ -1,0 +1,49 @@
+
+
+# Python Version: >=3.11
+# Core Framework
+fastapi>=0.104.1
+uvicorn>=0.24.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# HTTP and API clients
+httpx>=0.25.2
+requests>=2.31.0
+aiofiles>=23.2.1
+
+# Portia AI Framework - Will install manually
+portia-sdk-python
+
+# Geolocation and Maps
+geopy>=2.4.0
+folium>=0.15.0
+networkx>=3.2
+openrouteservice>=2.3.3
+
+# Data Processing
+pandas>=2.1.4
+numpy>=1.25.2
+
+# AI and ML
+openai>=1.0.0
+
+
+
+streamlit
+
+pydeck
+requests
+
+plotly>=5.17.0
+
+streamlit-folium>=0.15.0
+
+# Data Visualization
+altair>=5.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Real-time Updates
+streamlit-autorefresh>=0.0.6
+streamlit-aggrid>=0.3.4
